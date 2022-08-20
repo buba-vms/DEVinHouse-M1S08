@@ -1,0 +1,21 @@
+.product-img {
+  width: 200px;
+}
+
+.product-card {
+  border: 1px solid blue;
+  width: 220px;
+  text-align: center;
+  box-shadow: 5px 5px 5px black;
+}
+
+.price-tag {
+  color: yellowgreen;
+  font-size: 22px;
+}
+
+.product-list {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
